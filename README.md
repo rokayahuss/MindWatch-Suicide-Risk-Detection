@@ -34,3 +34,5 @@ During rigorous testing and validation, a fascinating machine learning paradigm 
 2. Install the necessary packages:
    ```bash
    pip install streamlit torch transformers scikit-learn joblib
+   ```bash
+   pip install streamlit torch transformers scikit-learn joblib
